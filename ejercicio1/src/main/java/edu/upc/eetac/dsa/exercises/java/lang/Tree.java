@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.exercises.java.lang;
 
 /**
- * Clase Tree con constructores.
+ * Clase Tree con constructores .
  */
 public class Tree {
     private int height;
